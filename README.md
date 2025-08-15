@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hi 👋!  <br>I'm Adiba, a passionate software engineer with years of experience building user-friendly and efficient mobile and web apps 📱💻. I’ve worked on a variety of projects, where I helped improve user engagement 📈 and ensured everything ran smoothly ✅.  <br><br>I’m skilled in technologies like React Native, React JS, Next JS, and TypeScript 🚀, and I enjoy solving problems 🧩, working with teams 🤝, and constantly learning new techniques 📚✨.</h3>
+<h3 align="left">Hi 👋!  <br>I'm Adiba, a passionate software engineer with years of experience building user-friendly and efficient mobile and web apps 📱💻. I’ve worked on a variety of projects, where I helped improve user engagement 📈 and ensured everything ran smoothly ✅.  <br><br>Skilled in technologies like React Native, React JS, Next JS, and TypeScript 🚀, and I enjoy solving problems 🧩, working with teams 🤝, and constantly learning new techniques 📚✨.</h3>
 
 ###
 
